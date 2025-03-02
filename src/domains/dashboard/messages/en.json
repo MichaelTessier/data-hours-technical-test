@@ -1,0 +1,24 @@
+{
+  "dashboard": {
+    "navigation": {
+      "root": "Dashboard",
+      "analytics": "Analytics"
+    },
+    "day": {
+      "1": "Monday",
+      "2": "Tuesday",
+      "3": "Wednesday",
+      "4": "Thursday",
+      "5": "Friday",
+      "6": "Saturday",
+      "7": "Sunday"
+    },
+    "hours": {
+      "title": "Hours overview",
+      "hourlyAverages": "Hourly averages",
+      "overallHourlyAverage": "Overall",
+      "hourWithHighestAverage": "Highest Average",
+      "hourWithLowestAverage": "Lowest Average"
+    }
+  }
+}
