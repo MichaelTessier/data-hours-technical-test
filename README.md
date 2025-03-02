@@ -8,17 +8,13 @@ yarn
 
 ### Environment variables
 
-Please create `.env` and add `VITE_API_URL` with root api url
+Please create `.env` and add `VITE_API_URL` with root api url `http://localhost:4000`
 
 ## Launch API
 
-You need to install docker on your machine et run this command
-
 ```
-docker compose up
+yarn server
 ```
-
-you can access to swagger on this url: `API_URL`/docs#/default/data
 
 ### Launch project
 
@@ -42,7 +38,6 @@ You need to follow commitlint rules with these available subjects `feat|fix|docs
 - i18n
   - Configure i18n with VSCode
 - Shadcn
-  - Rename utils folder of shadcn
   - Add Dark Mode Switch (dark is default, see class dark on index.html)
 - ESLint
   - extends rules
